@@ -3,7 +3,7 @@ import java.awt.*;
 public class Main {
   public static void main(String args[]) {
     // datatype  variable = value
-    // palindrome keywords example level, civic, tat
+    // palindrome keywords example level, civic
     String name = "level";
     int i=0;
     while(i <=4) {
